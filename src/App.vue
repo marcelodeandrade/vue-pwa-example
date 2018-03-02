@@ -9,7 +9,6 @@
       <span class="mdl-layout-title">Economizaí</span>
       <nav class="mdl-navigation">
         <router-link class="mdl-navigation__link" to="/" @click.native="hideMenu">Home</router-link>
-        <router-link class="mdl-navigation__link" to="/post" @click.native="hideMenu">Post</router-link>
       </nav>
     </div>
     <main class="mdl-layout__content">
